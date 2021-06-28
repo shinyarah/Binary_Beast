@@ -8,11 +8,11 @@ Binary Beasts
 To predict whether a candidate will look for a new job or continue working for the company after training.
 
 ## Specific Objectives
-To determine which factors affect employee turnover rate (feature importances) and order them according to their importances.
-To investigate how gender, work experience, education level and training hours correlates to the likelihood of an employee looking for a new job or not (related to the employee)
-To determine how company size and type affects the likelihood of an employee to look for a new job or not (related to the company)
-To build and optimize models that perform the prediction task.
-To evaluate performance of the models.
+* To determine which factors affect employee turnover rate (feature importances) and order them according to their importances.
+* To investigate how gender, work experience, education level and training hours correlates to the likelihood of an employee looking for a new job or not (related to the employee)
+* To determine how company size and type affects the likelihood of an employee to look for a new job or not (related to the company)
+* To build and optimize models that perform the prediction task.
+* To evaluate performance of the models.
 
 
 
